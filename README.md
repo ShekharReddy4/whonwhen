@@ -6,11 +6,11 @@ whonwhen is a repo which I maintain to schedule and note all the partying times 
 
 
 ### who uses whonwhen
-- [Bharath](#Bharath)
-- [Srikanth](#Srikanth)
-- [Ronik](#Ronik)
-- [Vishnu](#Vishnu)
-- [Shekhar](#Shekhar)
+- [Bharath](#bharath)
+- [Srikanth](#srikanth)
+- [Ronik](#ronik)
+- [Vishnu](#vishnu)
+- [Shekhar](#shekhar)
 
 ### Bharath
 
